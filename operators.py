@@ -18,11 +18,11 @@ print(x)
 x = 9
 x -=3			#decrease x by 3
 print(x)
-x = 9
 x *=3			#multiply x by 3
 print(x)
-x = 9
 x /=3			#divide x by 3
+print(x)
+x **= 3   #raise x to 3rd power
 print(x)
 
 #comparison operators
